@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://besunnylady.com/2019/01/09/hello-world/</loc>
+    
+    <lastmod>2019-01-09T06:19:18.659Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://besunnylady.com/2019/01/09/mysite/</loc>
+    
+    <lastmod>2019-01-09T06:18:53.670Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://besunnylady.com/2019/01/09/page/</loc>
     
     <lastmod>2019-01-09T04:05:41.335Z</lastmod>
@@ -26,20 +40,6 @@
     <loc>http://besunnylady.com/categories/index.html</loc>
     
     <lastmod>2019-01-09T03:49:37.972Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://besunnylady.com/2019/01/08/mysite/</loc>
-    
-    <lastmod>2019-01-08T09:50:30.363Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://besunnylady.com/2019/01/08/hello-world/</loc>
-    
-    <lastmod>2019-01-08T08:51:29.395Z</lastmod>
     
   </url>
   
