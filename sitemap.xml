@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://besunnylady.com/2019/01/09/page/</loc>
+    
+    <lastmod>2019-01-09T07:28:26.113Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://besunnylady.com/2019/01/08/mysite/</loc>
     
-    <lastmod>2019-01-09T06:46:39.157Z</lastmod>
+    <lastmod>2019-01-09T07:27:57.710Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>http://besunnylady.com/2019/01/09/hello-world/</loc>
     
     <lastmod>2019-01-09T06:46:26.323Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://besunnylady.com/2019/01/09/page/</loc>
-    
-    <lastmod>2019-01-09T04:05:41.335Z</lastmod>
     
   </url>
   
